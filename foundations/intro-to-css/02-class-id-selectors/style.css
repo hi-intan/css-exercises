@@ -1,0 +1,19 @@
+p {
+    background-color: lightcoral;
+    font-family: sans-serif;
+}
+
+#no2 {
+    font-size: 30px;
+    color: blue;
+}
+
+.bigger {
+    font-size: 25px;
+}
+
+#no4 {
+    font-weight: bold;
+    background-color: greenyellow;
+    font-size: 25px;
+}
